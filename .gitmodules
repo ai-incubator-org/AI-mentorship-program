@@ -1,0 +1,3 @@
+[submodule "sessions/Session 3 - Building Production-Ready AI Apps/ilm-ai-demo"]
+	path = sessions/Session 3 - Building Production-Ready AI Apps/ilm-ai-demo
+	url = https://github.com/ismailsaleekh/ilm-ai-demo.git
