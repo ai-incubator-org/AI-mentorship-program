@@ -120,10 +120,6 @@ If a section doesn't apply this time (e.g. no problems today), just write _"None
 Copy this into each new file:
 
 ```markdown
-# 2026-05-21
-
-**Time spent since last entry:** ~4h
-
 ## What was done
 
 - ...
@@ -137,6 +133,10 @@ Copy this into each new file:
 - ...
 
 ## Next plan
+
+- ...
+
+## Time spent
 
 - ...
 
